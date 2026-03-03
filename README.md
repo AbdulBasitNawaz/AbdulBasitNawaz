@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer<br>React and Python Developer<br>Currently Exploring DevOps side by side<br>Learning CI/CD Pipeline, AWS and Linux Commands
+Software Engineer<br>React and Python Developer<br>Exploring DevOps side by side<br>Learning CI/CD Pipeline, AWS and Linux Commands
 
 
 ## 🌐 Socials:
